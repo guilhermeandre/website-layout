@@ -7,4 +7,4 @@ https://guilhermeandre.github.io/website-layout/
 
 #Live page Screenshot 
 
-<img src= "./img/html-screenshot.png'">
+<img src= "img/html screenshot.png">
