@@ -108,7 +108,7 @@
 }
 
 .bgimg-1 {
-  background-image: url("././img/hero-banner.jpg");
+  background-image: url("../img/hero-banner.jpg");
   min-height: 25em;
 }
 
