@@ -76,14 +76,7 @@ h3 {
   clip-path: polygon(0 82%, 12% 68%, 30% 81%, 43% 85%, 58% 65%, 75% 83%, 89% 64%, 100% 83%, 100% 100%, 0 100%);
 }
 
-.flex-img {
-  width: 100%;
-  max-width: 100%;
-  border: 0.25em;
-  padding: 0.25em;
-  position: relative;
-  /* max-height: 100%; */
-}
+
 
 .flex-article {
   position: relative;
@@ -91,7 +84,6 @@ h3 {
   margin-right: auto;
   width: 60em;
 }
-
 
 
 .bgimg-1, .bgimg-2 {
