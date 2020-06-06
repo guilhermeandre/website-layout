@@ -3,7 +3,7 @@ https://guilhermeandre.github.io/website-layout/
 
 #Photoshop prototype screenshot
 
-<img src= "img/layout.png">
+<img src= "img/Layout.png">
 
 #Live page Screenshot 
 
